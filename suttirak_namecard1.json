@@ -1,20 +1,23 @@
-{
+[
   {
     "name": "Mr. Suttirak Pimsuk",
     "title": "Internet Programming Lecturer",
     "phone": "+66 6321 38283",
     "email": "suttirak.pi@ku.th"
+    "image": "https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/407228494_1771161693328914_3127733052293508247_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DXs1bEvkwr8Q7kNvwGDBQQz&_nc_oc=AdkMoZcHmPxX2DidBJfgiwNgYndXe06JyQJLBm1MLgx73cUsn5tbWKtgxNH9wvJTGZM&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=YzUepeL7eJaexoh5xso88g&oh=00_AfQO38RIABoVava60fdXunAl9aH16t-SoT1y8CW6cm0PJA&oe=687E737A"
   },
   {
     "name": "Mr. Tanus Kampitak",
     "title": "Internet Programming Lecturer",
     "phone": "+66 4931 9192",
-    "email": "tanus.k@ku.th"
+    "email": "tanus.k@ku.th",
+    "image": "https://scontent-bkk1-2.xx.fbcdn.net/v/t1.6435-9/44898878_305195126737290_5254286977871642624_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=djvGltP-VVEQ7kNvwG-ZLeZ&_nc_oc=Adk2gxC0zdzVZ_WcKjArhtCLMZNAIsxfdOiG0ZTf2s4m-gF8v9M7Nb3AiGKyMSqhoDY&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=DVkIRONxKicFxRpJ6BEByA&oh=00_AfN55pSdKvdAxDJOzNyl8EX0azxC93DNsMloeqnEAbnLCQ&oe=688DA76F"
   },
   {
     "name": "Mr. Phongsakorn Doungpanya",
     "title": "Internet Programming Lecturer",
-    "phone": "+66 8158 3798",
-    "email": "phongsakorn.do@ku.th"
+    "phone": "+69 8158 3798",
+    "email": "pongsakorn.do@ku.th",
+    "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t1.6435-9/84571162_832105100598003_268812098862055424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jejFZRNzVtcQ7kNvwGk03GI&_nc_oc=AdnUuS20ckirVVOF1hIfmanN3zF-YA04d-RgQhKvNguOo0h_7GoCmBIl8_6sBZT1Jq8&_nc_zt=23&_nc_ht=scontent-bkk1-1.xx&_nc_gid=7YuiejDPUBLCRi7Ja5R9lg&oh=00_AfMIRlDlnV42_toUb1PWWJ-LoHaIiOmDRAL45AnnfwV8bg&oe=688D9995"
   }
-}
+]
