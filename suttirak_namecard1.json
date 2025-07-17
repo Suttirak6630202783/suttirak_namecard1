@@ -1,6 +1,20 @@
 {
-  "name": "Mr. Suttirak Pimsuk",
-  "title": "Internet Programming Lecturer",
-  "phone": "+66 632 138 283",
-  "email": "suttirak.pi@ku.th"
+  {
+    "name": "Mr. Suttirak Pimsuk",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 6321 38283",
+    "email": "suttirak.pi@ku.th"
+  },
+  {
+    "name": "Mr. Tanus Kampitak",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 4931 9192",
+    "email": "tanus.k@ku.th"
+  },
+  {
+    "name": "Mr. Phongsakorn Doungpanya",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 8158 3798",
+    "email": "phongsakorn.do@ku.th"
+  }
 }
